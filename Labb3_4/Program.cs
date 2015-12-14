@@ -10,7 +10,8 @@ namespace Labb3_4
     {
         static void Main(string[] args)
         {
-            
+          
+              
         }
     }
 }

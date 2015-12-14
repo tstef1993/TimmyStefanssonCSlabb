@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb3_3", "Labb3_3\Labb3_3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb3_4", "Labb3_4\Labb3_4.csproj", "{36B19101-99B7-4EBF-BE82-B4EB55BAB272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StruktOperatorOverlagring", "StruktOperatorOverlagring\StruktOperatorOverlagring.csproj", "{CF1E0747-004C-4DC7-92E3-CE45377086DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumLurum", "EnumLurum\EnumLurum.csproj", "{FE00FB18-C3AB-40D7-BE16-0EE847300215}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{36B19101-99B7-4EBF-BE82-B4EB55BAB272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B19101-99B7-4EBF-BE82-B4EB55BAB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B19101-99B7-4EBF-BE82-B4EB55BAB272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1E0747-004C-4DC7-92E3-CE45377086DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1E0747-004C-4DC7-92E3-CE45377086DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1E0747-004C-4DC7-92E3-CE45377086DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1E0747-004C-4DC7-92E3-CE45377086DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE00FB18-C3AB-40D7-BE16-0EE847300215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE00FB18-C3AB-40D7-BE16-0EE847300215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE00FB18-C3AB-40D7-BE16-0EE847300215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE00FB18-C3AB-40D7-BE16-0EE847300215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
